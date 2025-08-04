@@ -10,6 +10,9 @@
     <em>Code Analysis Package Manager</em>
 </p>
 
+Code analysis should be easy and fun, and one of the first things to set up for
+a software project.
+
 Settings Manager automates your GitHub settings, no matter if you have a couple
 of personal repositories, or manage a large organization account.
 
