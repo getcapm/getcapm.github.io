@@ -33,6 +33,7 @@ markdown_extensions:
   - pymdownx.snippets
 nav:
     - CAPM: 'index.md'
-    - Getting Started: 'getting-started.md'
+    - Getting Started: 
+      - Installation: 'installation.md'
     - Configuration:
       - 'configuration/general.md'
