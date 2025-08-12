@@ -11,10 +11,11 @@
 </p>
 
 Code analysis should be easy and fun, and one of the first things to set up for
-a software project.
+a software project, not an afterthought.
 
-Settings Manager automates your GitHub settings, no matter if you have a couple
-of personal repositories, or manage a large organization account.
+CAPM is a package manager for all tools related code analysis. No matter if you
+just want to run a linter, a code formatter, a duplication finder, or a
+complete code quality suite, CAPM makes it simple (and fun!). 
 
 ### Key features and design principles
 
