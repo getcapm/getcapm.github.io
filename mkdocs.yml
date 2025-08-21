@@ -35,5 +35,6 @@ nav:
     - CAPM: 'index.md'
     - Getting Started: 
       - Installation: 'installation.md'
+    - Packages: 'packages.md'
     - Configuration:
       - 'configuration/general.md'
