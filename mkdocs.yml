@@ -16,6 +16,7 @@ theme:
   logo: assets/logo-light.png
   favicon: assets/favicon.ico
   features:
+    - toc.integrate
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
@@ -38,3 +39,4 @@ nav:
     - Packages: 'packages.md'
     - Configuration:
       - 'configuration/general.md'
+    - 'development.md'
