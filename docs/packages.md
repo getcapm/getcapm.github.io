@@ -1,5 +1,7 @@
 # Packages
 
+<!-- Update table: pipx run capm info --format markdown -->
+
 | **Package** | **Version** | **Type** | **Technology** |
 | --- | ---: | ---: | ---: |
 ansible-lint | 25.8.1 | linter | Ansible |
