@@ -23,10 +23,6 @@ theme:
     - navigation.footer
     - content.code.copy
 plugins:
-  - glightbox:
-      draggable: false
-      background: none
-      shadow: false
   - search
 markdown_extensions:
   - abbr
