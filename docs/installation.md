@@ -1,8 +1,8 @@
-# Getting Started
+# Installation
 
-## Installation
+CAPM requires [Docker](https://www.docker.com/get-started/) to be installed.
 
-### Homebrew
+## Homebrew
 
 CAPM is available for [Homebrew](https://brew.sh):
 
@@ -10,7 +10,7 @@ CAPM is available for [Homebrew](https://brew.sh):
 brew install getcapm/capm/capm
 ```
 
-### Pipx
+## Pipx
 
 To install the standalone version of CAPM in an isolated Python environment
 using [pipx](https://pypa.github.io/pipx) run:
@@ -19,16 +19,16 @@ using [pipx](https://pypa.github.io/pipx) run:
 pipx install capm
 ```
 
-### PyPi
+## PyPi
 
-To install the standalone version of CodeLimit for your default Python
-installation run:
+To install the standalone version of CAPM for your default Python installation
+run:
 
 ```shell
 python -m pip install capm
 ```
 
-### Platform binaries
+## Platform binaries
 
 Binaries for different platforms (macOS, Linux, Windows) are available on the
 [latest release page](https://github.com/getcapm/capm/releases/latest).
